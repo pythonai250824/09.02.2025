@@ -15,3 +15,8 @@ def test_calculator_add_small():
     # Assert
     assert expected == actual, "small numbers add"
 
+# pip install pytest
+# run the tests : play, pytest .
+# add test sub
+# add test mul
+# add test div
